@@ -12,4 +12,4 @@ A local inventory and billing system built with Flutter, Hive, and Provider.
 
 
 ## Resume
-[Download My CV](./Zaheen_CV.pdf)
+[Download My CV](./CV Zaheen Zahra (1).pdf)
