@@ -1,15 +1,15 @@
 # my_portfolio
 My personal developer portfolio showcasing apps, mini-projects, and code samples."
 
-# 👨‍💻 Zaheen's Portfolio
+# Zaheen's Portfolio
 
-🎓 Computer Science Student | 💙 Flutter Instructor & App Developer
+ Computer Science Student | Flutter Instructor & App Developer
 
-## 📱 Flutter Projects
+## Flutter Projects
 
-### 🔹 Dhaba Inventory & Billing App
+### Dhaba Inventory & Billing App
 A local inventory and billing system built with Flutter, Hive, and Provider.
 
 
-## 📄 Resume
+## Resume
 [Download Resume](./resume.pdf)
