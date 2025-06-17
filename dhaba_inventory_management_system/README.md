@@ -1,9 +1,9 @@
-# 🍽️ Dhaba Inventory Management System
+# Dhaba Inventory Management System
 
 A lightweight and offline-first inventory and billing solution tailored for local food stalls and small restaurants (dhabas), built using **Flutter**. This system helps digitize stock tracking, sales recording, and billing operations — making day-to-day management easier, faster, and more accurate.
 
 
-## 🚀 Features
+## Features
 
 ✅ **Inventory Management**  
 - Add, edit, and delete food items like *shami*, *burgers*, *dahi bhale*, etc.  
@@ -29,7 +29,7 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 - Smooth and reactive UI updates using Provider for state control.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer         | Technology        |
 |---------------|-------------------|
@@ -47,10 +47,15 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 
 lib/
 ├── models/        # Product, Inventory, Bill, Activity, and Sale models
+
 ├── providers/     # Inventory, Billing, and Sales providers
+
 ├── routes/        # App routes
+
 ├── screens/       # Inventory, Billing, Dashboard, Sales screens
+
 ├── widgets/       # Reusable components
+
 └── main.dart      # Entry point
 
 ## About
@@ -63,16 +68,21 @@ This project was built to help digitize and simplify the daily operations of my 
 1. Clone the repository:
    
    git clone https://github.com/yourusername/dhaba_inventory_management_system.git
+   
    cd dhaba_inventory_management_system
    
 Get dependencies:
+
 flutter pub get
 
 Run on Web or Windows:
-flutter run -d chrome   # for web  
+
+flutter run -d chrome   # for web 
+
 flutter build windows   # for Windows (enable developer mode)
 
-📬 Contributions
+Contributions
+
 Pull requests are welcome. Feel free to fork the project and suggest improvements.
 
-Built with 💙 in Flutter by Zaheen Zahra
+Built with in Flutter by Zaheen Zahra
