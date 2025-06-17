@@ -36,7 +36,7 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 | Frontend      | Flutter (Web + Windows Desktop) |
 | Local Storage | Hive              |
 | State Mgmt.   | Provider          |
-| UI Components | DataTable, Charts, Drawer Navigation |
+| UI Components | DataTable, Charts, Bottom Navigation for mobile and Side Navigation for web or desktop |
 
 
 ## 📁 Project Structure
