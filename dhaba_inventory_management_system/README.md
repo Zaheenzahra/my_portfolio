@@ -42,7 +42,7 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 ## 📁 Project Structure
 lib/
 
-├── models/ &nbsp    # Product, Inventory, Bill, Activity, and Sale models
+├── models/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Product, Inventory, Bill, Activity, and Sale models
 
 ├── providers/     # Inventory, Billing, and Sales providers
 
