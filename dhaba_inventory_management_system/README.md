@@ -42,17 +42,17 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 ## 📁 Project Structure
 lib/
 
-├── models/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      // Product, Inventory, Bill, Activity, and Sale models
+├── models/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       // Product, Inventory, Bill, Activity, and Sale models
 
-├── providers/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp    //Inventory, Billing, and Sales providers
+├── providers/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    //Inventory, Billing, and Sales providers
 
-├── routes/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp       // App routes
+├── routes/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       // App routes
 
-├── screens/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp     // Inventory, Billing, Dashboard, Sales screens
+├── screens/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     // Inventory, Billing, Dashboard, Sales screens
 
-├── widgets/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp     // Reusable components
+├── widgets/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     // Reusable components
 
-└── main.dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp    // Entry point
+└── main.dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    // Entry point
 
 ## About
 
