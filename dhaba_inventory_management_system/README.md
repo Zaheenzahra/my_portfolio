@@ -43,17 +43,17 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 
 lib/
 
-├── models/        # Product, Inventory, Bill, Activity, and Sale models
+├── models/                 # //Product, Inventory, Bill, Activity, and Sale models
 
-├── providers/     # Inventory, Billing, and Sales providers
+├── providers/              # //Inventory, Billing, and Sales providers
 
-├── routes/        # App routes
+├── routes/                 # //App routes
 
-├── screens/       # Inventory, Billing, Dashboard, Sales screens
+├── screens/                # //Inventory, Billing, Dashboard, Sales screens
 
-├── widgets/       # Reusable components
+├── widgets/                # //Reusable components
 
-└── main.dart      # Entry point
+└── main.dart               # //Entry point
 
 ## About
 
@@ -68,18 +68,18 @@ This project was built to help digitize and simplify the daily operations of my 
    
    cd dhaba_inventory_management_system
    
-Get dependencies:
+**Get dependencies:**
 
 flutter pub get
 
-Run on Web or Windows:
+**Run on Web or Windows:**
 
 flutter run -d chrome   # for web 
 
 flutter build windows   # for Windows (enable developer mode)
 
-Contributions
+**Contributions**
 
 Pull requests are welcome. Feel free to fork the project and suggest improvements.
 
-Built with in Flutter by Zaheen Zahra
+**Built with in Flutter by Zaheen Zahra**
