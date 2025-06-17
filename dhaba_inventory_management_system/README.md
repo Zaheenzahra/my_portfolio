@@ -39,13 +39,10 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 | UI Components | DataTable, Charts, Drawer Navigation |
 
 
-## 📸 Screenshots
-
-
-
 ## 📁 Project Structure
 
 lib/
+
 ├── models/        # Product, Inventory, Bill, Activity, and Sale models
 
 ├── providers/     # Inventory, Billing, and Sales providers
