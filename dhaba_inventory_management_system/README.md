@@ -43,17 +43,17 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 
 lib/
 
-├── models/                 # //Product, Inventory, Bill, Activity, and Sale models
+├── models/        # Product, Inventory, Bill, Activity, and Sale models
 
-├── providers/              # //Inventory, Billing, and Sales providers
+├── providers/     # Inventory, Billing, and Sales providers
 
-├── routes/                 # //App routes
+├── routes/        # App routes
 
-├── screens/                # //Inventory, Billing, Dashboard, Sales screens
+├── screens/       # Inventory, Billing, Dashboard, Sales screens
 
-├── widgets/                # //Reusable components
+├── widgets/       # Reusable components
 
-└── main.dart               # //Entry point
+└── main.dart      # Entry point
 
 ## About
 
