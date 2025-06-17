@@ -43,7 +43,7 @@ A lightweight and offline-first inventory and billing solution tailored for loca
 
 lib/
 
-├── models/        # Product, Inventory, Bill, Activity, and Sale models
+├── models/\t          // Product, Inventory, Bill, Activity, and Sale models
 
 ├── providers/     # Inventory, Billing, and Sales providers
 
